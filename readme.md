@@ -20,7 +20,7 @@
 
 ## 🖼 Feature Graphic
 
-![BE Notes Feature Graphic](./feature-graphic.png)
+![BE Notes Feature Graphic](https://raw.githubusercontent.com/su-resh/BE-Computer/refs/heads/main/feature-graphics.png)
 
 ---
 
@@ -29,7 +29,6 @@
 - **📚 Complete Syllabus & Notes** – For **all semesters** and **all engineering branches** (Computer, Civil, Electrical, Mechanical, etc.)
 - **🆕 Always Updated** – Aligned with the **latest Pokhara University (PU)** syllabus
 - **⚡ Fast Navigation** – Quickly jump to any semester, subject, or topic
-- **📥 Offline Access** – Save notes for when you don’t have internet
 - **🔍 Search Functionality** – Find exactly what you need instantly
 - **💡 Exam-Oriented Content** – Perfect for quick revision and assignment help
 - **🌙 Dark Mode Support** – Read comfortably at night
@@ -48,7 +47,6 @@ Whether you’re preparing for exams, revising topics, or looking up assignments
 
 - This GitHub repository **will no longer be updated**.
 - All future updates, new subjects, and features will be exclusively available in the **BE Notes App**.
-- Old files remain here for archive/reference purposes.
 
 ---
 
