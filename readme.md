@@ -53,7 +53,7 @@ Whether you’re preparing for exams, revising topics, or looking up assignments
 ## 🌐 Website
 
 Check out more online resources and updates at:  
-[https://benotes.sureshsubedi.info.np](https://benotes.sureshsubedi.info.np)
+[https://engnotes.sureshsubedi.info.np](https://engnotes.sureshsubedi.info.np)
 
 ---
 
@@ -61,7 +61,7 @@ Check out more online resources and updates at:
 
 - **Instagram:** [@appsansar](https://instagram.com/appsansar)
 - **Email:** contact@sureshsubedi.info.np
-- **Website:** [https://benotes.sureshsubedi.info.np](https://benotes.sureshsubedi.info.np)
+- **Website:** [https://engnotes.sureshsubedi.info.np](https://engnotes.sureshsubedi.info.np)
 
 ---
 
