@@ -1,13 +1,13 @@
-# 📚 BE Notes – Pokhara University Engineering Notes
+# 📚 Engineering Notes – Pokhara University Engineering Notes
 
 > **📢 Important Notice:**  
 > This repository (`BE-Computer`) has been **migrated**!  
-> All notes, syllabus, and study materials from **2022 to the latest** are now available in our new **BE Notes mobile application**.  
+> All notes, syllabus, and study materials from **2022 to the latest** are now available in our new **Engineering Notes mobile application**.  
 > Get the app today for **faster access, offline mode, and better navigation**.
 
 ---
 
-## 📲 Download the Official BE Notes App
+## 📲 Download the Official Engineering Notes App
 
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.be.notes&pli=1)
 
@@ -20,11 +20,11 @@
 
 ## 🖼 Feature Graphic
 
-![BE Notes Feature Graphic](https://raw.githubusercontent.com/su-resh/BE-Computer/refs/heads/main/feature-graphics.png)
+![Engineering Notes Feature Graphic](https://raw.githubusercontent.com/su-resh/BE-Computer/refs/heads/main/feature-graphics.png)
 
 ---
 
-## ✨ Key Features of BE Notes
+## ✨ Key Features of Engineering Notes
 
 - **📚 Complete Syllabus & Notes** – For **all semesters** and **all engineering branches** (Computer, Civil, Electrical, Mechanical, etc.)
 - **🆕 Always Updated** – Aligned with the **latest Pokhara University (PU)** syllabus
@@ -36,17 +36,17 @@
 
 ---
 
-## 🏫 About BE Notes
+## 🏫 About Engineering Notes
 
-**BE Notes** is designed specifically for **Pokhara University (PU)** Bachelor of Engineering students to make learning simpler and more accessible.  
-Whether you’re preparing for exams, revising topics, or looking up assignments, BE Notes is your go-to study companion.
+**Engineering Notes** is designed specifically for **Pokhara University (PU)** Bachelor of Engineering students to make learning simpler and more accessible.  
+Whether you’re preparing for exams, revising topics, or looking up assignments, Engineering Notes is your go-to study companion.
 
 ---
 
 ## 🛠 About This Repository
 
 - This GitHub repository **will no longer be updated**.
-- All future updates, new subjects, and features will be exclusively available in the **BE Notes App**.
+- All future updates, new subjects, and features will be exclusively available in the **Engineering Notes App**.
 
 ---
 
